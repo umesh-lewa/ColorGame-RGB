@@ -49,8 +49,6 @@ function setupSquares(){
 	}
 }
 
-
-
 function reset(){
 	colors = generateRandomColors(numSquares);
 	//pick a new random color from array
